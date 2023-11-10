@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kayaayberk
+- 👋 Hi, I’m Ayberk
 - 👀 I’m interested in design and coding
 - 🌱 I’m currently learning how to code with a great passion 
 - 💞️ I’d be more than happy to collaborate on any idea!
