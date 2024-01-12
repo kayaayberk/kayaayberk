@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayberk
-- 👀 I’m interested in design and coding
-- 🌱 I’m currently learning how to code with a great passion 
+- 👀 I’m a designer & developer and I love adapting new technologies into design.
+- 🤓 I’ve been teaching myself programming for the last 5 months and I'm blown away by the opportunities that the technologies I try to learn offer.
 - 💞️ I’d be more than happy to collaborate on any idea!
 
 <!---
