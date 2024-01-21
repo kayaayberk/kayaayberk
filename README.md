@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ayberk
-- 👀 I’m a designer & developer and I love adapting new technologies into design.
-- 🤓 I’ve been teaching myself programming for the last 5 months and I'm blown away by the opportunities that the technologies I try to learn offer.
-- 💞️ I’d be more than happy to collaborate on any idea!
+## 👋 Hi, I’m Ayberk
+#### I’m a developer & designer and I love adapting new technologies into design.
+#### I’ve been regaining my programming skills for the last 6 months after graduating from a design school and I'm blown away by the opportunities that the technologies I try to learn offer.
+#### I’d be more than happy to collaborate!
 
 <!---
 kayaayberk/kayaayberk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
