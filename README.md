@@ -1,10 +1,10 @@
-Hi 👋🏻 I’m Ayberk
-<br/>
-<br/>
-I'm a [Software Developer, Designer](https://www.linkedin.com/in/kayaayberk/), Tech Enthusiast and [I capture moments](https://aybrk.dev/taste). Currently based in Warsaw, Poland📍
-<br/>
-<br/>
-I’ve been learning programming for the last 6 months after graduating from a design school and I'm blown away by the opportunities that the technologies I learn offer.
+### Hi 👋🏻 I’m Ayberk
+
+I'm a Software Developer, Designer, Tech Enthusiast and [I capture moments](https://aybrk.dev/taste). Currently based in Warsaw, Poland📍
+
+Currently experimenting with AI-related technologies, building stuff that I find interesting and exploring new areas in software development.
+
+Feel free to reach me out through my links. ✌🏻
 
 [My personal website ↗](https://aybrk.dev)
 <!---
